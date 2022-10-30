@@ -1,1 +1,5 @@
+#Taskbar
+tint2 &
 
+# Wallpaper
+feh --bg-fill ~/Pictures/wall.jpg &
