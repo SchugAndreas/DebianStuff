@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=xdotool key "alt+r" 
+Name=Schug
+Icon=/root/Downloads/debian.jpg
+Categories=Development

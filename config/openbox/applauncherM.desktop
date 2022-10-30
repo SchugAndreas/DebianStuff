@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=xdotool key "alt+m" 
+Name=Schug2
+Icon=/root/Downloads/debblue.jpg
+Categories=Development
